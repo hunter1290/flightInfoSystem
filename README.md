@@ -26,7 +26,6 @@ The Flight Tracker Application is a web-based platform designed to provide users
 - **Frontend**: React, Firebase, CSS
 - **Backend**: Node.js, Express, MongoDB
 - **Real-Time Communication**: Socket.IO
-- **Deployment**: Firebase Hosting (for frontend), Heroku (for backend)
 
 ## Frontend
 The frontend is developed using React, integrating Firebase Authentication for user sign-in and session management. The application fetches flight data and updates it in real-time, providing users with the latest information and notifications regarding flight status changes.
